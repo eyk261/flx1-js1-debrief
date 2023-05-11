@@ -1,4 +1,6 @@
-let myNumber = '12';
+var msg = 'Hello World!';
+console.log(msg);
+/*let myNumber = '12';
 
 if(typeof myNumber !=='number'){
     console.log('This is not a number');
@@ -11,8 +13,9 @@ if(typeof myNumber !=='number'){
 }else {
     console.log(myNumber);
 }
+*/
 
-let items = shoes 
+/*let items = shoes 
 switch (item){
     case 'Shoes':
         console.log('Shoes are 50$');
@@ -31,3 +34,4 @@ switch (item){
 }
 
 console.log(Math.floor(Math.random()* 51))
+*/
